@@ -1,0 +1,21 @@
+{
+  "name": "salesPresentacion",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "salesPresentacion.html",
+    "path": "",
+    "menuName": {
+      "en": "salesPresentacion"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "salesPresentacion",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
